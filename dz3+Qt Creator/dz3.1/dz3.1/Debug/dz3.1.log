@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\era\documents\visual studio 2015\projects\dz3.1\dz3.1\source.cpp(61): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\era\documents\visual studio 2015\projects\dz3.1\dz3.1\source.cpp(114): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\era\documents\visual studio 2015\projects\dz3.1\dz3.1\source.cpp(133): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\era\documents\visual studio 2015\projects\dz3.1\dz3.1\source.cpp(145): warning C4018: <: несоответствие типов со знаком и без знака
+  dz3.1.vcxproj -> C:\Users\Era\Documents\Visual Studio 2015\Projects\dz3.1\Debug\dz3.1.exe
+  dz3.1.vcxproj -> C:\Users\Era\Documents\Visual Studio 2015\Projects\dz3.1\Debug\dz3.1.pdb (Full PDB)

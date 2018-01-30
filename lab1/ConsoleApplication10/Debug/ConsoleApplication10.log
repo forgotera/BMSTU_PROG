@@ -1,0 +1,5 @@
+﻿  ConsoleApplication10.cpp
+c:\users\era\desktop\программирование\си++лабы\1\consoleapplication10\consoleapplication10.cpp(11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\era\desktop\программирование\си++лабы\1\consoleapplication10\consoleapplication10.cpp(11): warning C4244: инициализация: преобразование "double" в "const int", возможна потеря данных
+  ConsoleApplication10.vcxproj -> C:\Users\Era\Desktop\Программирование\си++лабы\1\Debug\ConsoleApplication10.exe
+  ConsoleApplication10.vcxproj -> C:\Users\Era\Desktop\Программирование\си++лабы\1\Debug\ConsoleApplication10.pdb (Full PDB)
